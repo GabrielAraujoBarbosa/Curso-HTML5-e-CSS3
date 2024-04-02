@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+    
+body {
+    font-family: Roboto Mono;
+    text-align: center;
+    background-color: #201c1c;
+    color: whitesmoke;
+}
+
+iframe {
+    margin: 20px;
+}
+
+.back-button {
+    margin: 30px;
+    width: 90px;
+}
+
+.materias {
+    margin: 40px;
+}
+
+a {
+    color: white;
+}
